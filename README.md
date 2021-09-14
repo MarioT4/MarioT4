@@ -2,10 +2,10 @@
 - My previuos coding expirence is through khan academy coding mostly html and python work.
 - my reason for taking this class is because ive always enjoyed it and it was another oppurtunity to learn.
 - my main interests are
-1.**lifting** 
-2.**nutrtion**
-3.**shotput**
-4.**discus**
+        -**lifting** 
+        -**nutrtion**
+        -**shotput**
+        -**discus**
 - my main goal is to be albe to be able to comlete coding projects by myself with no help.
 
 <!---
