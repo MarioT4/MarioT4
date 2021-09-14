@@ -5,11 +5,11 @@
   
     - **lifting** 
  
- -**nutrtion** 
+   - **nutrtion** 
   
-  -**shotput** 
+    - **shotput** 
   
-  -**discus** 
+  - **discus** 
 
 - my main goal is to be albe to be able to comlete coding projects by myself with no help.
 
