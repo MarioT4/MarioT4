@@ -3,13 +3,13 @@
 - my reason for taking this class is because ive always enjoyed it and it was another oppurtunity to learn.
 - My main interests are: 
   
-  1.lifting 
+  -lifting 
  
- 2.**nutrtion** 
+ -**nutrtion** 
   
-  3.**shotput** 
+  -**shotput** 
   
-  4.**discus** 
+  -**discus** 
 
 - my main goal is to be albe to be able to comlete coding projects by myself with no help.
 
