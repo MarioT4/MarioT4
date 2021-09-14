@@ -1,4 +1,4 @@
-👋 **Hi, I’m @MarioT4**
+# Hi, I’m @MarioT4
 - My previuos coding expirence is through khan academy coding mostly html and python work.
 - my reason for taking this class is because ive always enjoyed it and it was another oppurtunity to learn.
 - My main interests are: 
