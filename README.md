@@ -3,7 +3,7 @@
 - my reason for taking this class is because ive always enjoyed it and it was another oppurtunity to learn.
 - My main interests are: 
   
-    - lifting 
+    - **lifting** 
  
  -**nutrtion** 
   
